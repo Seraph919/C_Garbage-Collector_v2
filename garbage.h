@@ -14,5 +14,6 @@ typedef struct s_garbage{
     struct s_garbage *next;
 }   t_garbage;
 
+void *alloc(size_t size, e_action action);
 
 #endif
