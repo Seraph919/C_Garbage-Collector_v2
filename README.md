@@ -12,7 +12,6 @@ This project implements a simple garbage collection system in C to manage dynami
 
 - **`garbage.h`**: Header file containing type definitions and function declarations.
 - **`garbage.c`**: Implementation of the garbage collection system.
-- **`.vscode/settings.json`**: VS Code settings for file associations.
 
 ## API Overview
 
